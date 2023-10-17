@@ -1,0 +1,13 @@
+E:\DO AN\QLNhanVien\QLNhanVien\bin\Debug\QLNhanVien.exe.config
+E:\DO AN\QLNhanVien\QLNhanVien\bin\Debug\QLNhanVien.exe
+E:\DO AN\QLNhanVien\QLNhanVien\bin\Debug\QLNhanVien.pdb
+E:\DO AN\QLNhanVien\QLNhanVien\obj\Debug\QLNhanVien.csproj.AssemblyReference.cache
+E:\DO AN\QLNhanVien\QLNhanVien\obj\Debug\QLNhanVien.csproj.SuggestedBindingRedirects.cache
+E:\DO AN\QLNhanVien\QLNhanVien\obj\Debug\QLNhanVien.Form1.resources
+E:\DO AN\QLNhanVien\QLNhanVien\obj\Debug\QLNhanVien.Properties.Resources.resources
+E:\DO AN\QLNhanVien\QLNhanVien\obj\Debug\QLNhanVien.csproj.GenerateResource.cache
+E:\DO AN\QLNhanVien\QLNhanVien\obj\Debug\QLNhanVien.csproj.CoreCompileInputs.cache
+E:\DO AN\QLNhanVien\QLNhanVien\obj\Debug\QLNhanVien.exe
+E:\DO AN\QLNhanVien\QLNhanVien\obj\Debug\QLNhanVien.pdb
+E:\DO AN\QLNhanVien\QLNhanVien\obj\Debug\QLNhanVien.GUI.GUI_NhanVien.resources
+E:\DO AN\QLNhanVien\QLNhanVien\obj\Debug\QLNhanVien.GUI.GUI_ChamCong.resources
